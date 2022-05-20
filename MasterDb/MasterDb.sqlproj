@@ -62,5 +62,6 @@
     <Build Include="Tables\Domain.sql" />
     <Build Include="Tables\Dataset.sql" />
     <Build Include="Tables\LoadType.sql" />
+    <Build Include="Tables\Location.sql" />
   </ItemGroup>
 </Project>
