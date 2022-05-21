@@ -1,6 +1,6 @@
 ﻿-- PROVIDER
 --
--- Cloud provider
+-- Cloud provider information
 -- Example: Azure, AWS
 CREATE TABLE [dbo].[Provider]
 (

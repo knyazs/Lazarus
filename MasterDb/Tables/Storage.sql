@@ -1,6 +1,6 @@
 ﻿-- STORAGE
 --
--- Storage service
+-- Storage service information
 -- 
 CREATE TABLE [dbo].[Storage]
 (
